@@ -1,0 +1,48 @@
+{
+    "personal_information": {
+        "full_name": "Sara Moradi",
+        "email": "sara.moradi@example.com",
+        "phone": "+98 912 123 4567"
+    },
+    "education": [
+        {
+            "degree": "MSc",
+            "field_of_study": "Data Science",
+            "university": "University of Tehran",
+            "graduation_date": "2021"
+        },
+        {
+            "degree": "BSc",
+            "field_of_study": "Computer Engineering",
+            "university": "Sharif University",
+            "graduation_date": "2018"
+        }
+    ],
+    "work_experience": [
+        {
+            "job_title": "Data Scientist",
+            "company": "Snapp",
+            "employment_period": "2022-Present",
+            "responsibilities": [
+                "Developed machine learning models for customer segmentation",
+                "Optimized recommendation systems for better user experience"
+            ]
+        },
+        {
+            "job_title": "AI Researcher",
+            "company": "Digikala",
+            "employment_period": "2019-2022",
+            "responsibilities": [
+                "Conducted NLP research for automatic product categorization"
+            ]
+        }
+    ],
+    "skills": {
+        "technical_skills": ["Python", "TensorFlow", "PyTorch", "SQL", "Data Visualization"],
+        "soft_skills": []
+    },
+    "certifications": [
+        "Google Data Analytics Professional Certificate",
+        "Deep Learning Specialization by Andrew Ng (Coursera)"
+    ]
+}

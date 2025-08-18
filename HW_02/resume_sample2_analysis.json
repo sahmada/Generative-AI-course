@@ -1,0 +1,59 @@
+```json
+{
+  "contact_information": {
+    "full_name": "محمد امینی",
+    "email": "mohamad.amini@example.com",
+    "phone_number": "۰۹۱۴۵۶۷۸۹۰۱"
+  },
+  "education": [
+    {
+      "degree": "کارشناسی ارشد",
+      "field": "هوش مصنوعی",
+      "university": "دانشگاه صنعتی شریف",
+      "graduation_year": 1399
+    },
+    {
+      "degree": "کارشناسی",
+      "field": "مهندسی کامپیوتر",
+      "university": "دانشگاه تهران",
+      "graduation_year": 1396
+    }
+  ],
+  "work_experience": [
+    {
+      "job_title": "محقق یادگیری ماشین",
+      "company": "شرکت فناوران داده",
+      "duration": "۱۴۰۰ تا امروز",
+      "responsibilities": [
+        "توسعه‌ی مدل‌های یادگیری عمیق برای پردازش تصویر",
+        "بهینه‌سازی شبکه‌های عصبی برای کاربردهای صنعتی"
+      ]
+    },
+    {
+      "job_title": "مهندس یادگیری ماشین",
+      "company": "شرکت هوش برتر",
+      "duration": "۱۳۹۸-۱۴۰۰",
+      "responsibilities": [
+        "پیاده‌سازی الگوریتم‌های داده‌کاوی برای تحلیل کلان‌داده‌ها"
+      ]
+    }
+  ],
+  "skills": {
+    "technical_skills": [
+      "تسلط بر پایتون و کتابخانه‌های یادگیری ماشین (Scikit-learn, TensorFlow)",
+      "پردازش داده‌های کلان با Apache Spark"
+    ],
+    "soft_skills": [
+      "مهارت‌های ارتباطی قوی برای ارائه‌ی نتایج علمی"
+    ]
+  },
+  "certifications": [
+    {
+      "title": "مقام اول مسابقه‌ی Kaggle در حوزه‌ی پردازش تصویر"
+    },
+    {
+      "title": "گواهینامه‌ی تخصصی Deep Learning از دانشگاه استنفورد"
+    }
+  ]
+}
+```
